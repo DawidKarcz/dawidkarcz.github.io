@@ -1,1 +1,0 @@
-# dawidkarcz.github.io
