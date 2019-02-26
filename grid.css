@@ -1,0 +1,118 @@
+body {
+    background: ;
+}
+
+/*To reference he class - it must be preceded by a dot, point, period.*/
+.container{
+    width:1140px;
+    overflow: hidden;
+    background:;
+    margin:auto;
+}
+/*Margin auto makes left and right side margin the same*/
+.one{
+    width:65px;
+    background: ;
+    float: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.two{
+    width:160px;
+    background: ;
+    float: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.three{
+    width:255px;
+    background: ;
+    float: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.four{
+    width:350px;
+    float: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.five{
+    width:445px;
+    background: ;
+    float: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+
+
+.six{
+    width:540px;
+    background: ;
+    float: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.seven{
+    width:635px;
+    background: ;
+    float: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.eight{
+    width:730px;
+    background:;
+    float: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.nine{
+    width:825px;
+    background: ;
+    float: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+
+
+.ten{
+    width:920px;
+    background: ;
+    float: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.eleven{
+    width:1015px;
+    background: ;
+    float: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.twelve{
+    width:1110px;
+    background: ;
+    float: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.alpha{
+    margin-left: 0px;
+}
+
+.omega{
+    margin-right: 0px;
+}
